@@ -6,7 +6,7 @@ Add configurable contextual output to console.
 
 
 ```bash
-npm install -----
+npm install vue-contextual-console
 ```
 
 ```javascript
