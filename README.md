@@ -4,11 +4,9 @@ Add configurable contextual output to console.
 
 ## Installation
 
-To use npm or yarn to install this package, you need to acquire a deploy token from GitLab.
-[Click here](https://docs.gitlab.com/ee/user/project/deploy_tokens/) to learn more about GitLab deploy tokens.
 
 ```bash
-npm install git+https://{USER}:{TOKEN}@git.5align.com/resources/vue-contextual-console.git#{branch|tag}
+npm install -----
 ```
 
 ```javascript
