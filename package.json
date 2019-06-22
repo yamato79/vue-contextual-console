@@ -1,0 +1,18 @@
+{
+	"name": "vue-contextual-console",
+	"version": "1.0.0",
+	"description": "Add configurable contextual output to console.",
+	"main": "dist/vue-contextual-console.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://git.5align.com/resources/vue-contextual-console.git"
+	},
+	"keywords": [
+		"Vue"
+	],
+	"author": "Jonathan Tordesillas <tordesillas.jonathan@gmail.com>",
+	"license": "ISC"
+}
